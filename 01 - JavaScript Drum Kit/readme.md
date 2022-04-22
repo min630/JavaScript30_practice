@@ -1,5 +1,5 @@
 ## Day 1 - JavaScript Drum Kit
-![image](url)
+![image](https://github.com/min630/JavaScript30_practice/blob/main/01%20-%20JavaScript%20Drum%20Kit/screenshot.JPG)
 
 按下與畫面中相同的按鍵，會發出音效，畫面也會出現特效。
 ### Practicd Note

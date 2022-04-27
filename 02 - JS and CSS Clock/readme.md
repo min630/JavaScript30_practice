@@ -1,5 +1,5 @@
 ## Day 2 - JS and CSS Clock
-![image](https://github.com/min630/JavaScript30_practice/blob/main/02%20-%20JS%20and%20CSS%20Clock/screenshot.JPG)
+<img src="https://github.com/min630/JavaScript30_practice/blob/main/02%20-%20JS%20and%20CSS%20Clock/screenshot.JPG" width="400" height="220" alt="image"/>
 
 用JavaScript和CSS製作的時鐘
 ### Practice Note

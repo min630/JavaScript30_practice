@@ -1,6 +1,6 @@
 ## Day 5 - Flex Panel Gallery
 
-<img src="" width="600" height="300" alt="image"/>
+<img src="https://github.com/min630/JavaScript30_practice/blob/main/05%20-%20Flex%20Panel%20Gallery/play.gif" width="600" height="300" alt="image"/>
 
 這個單元主要是練習使用flexbox排版
 

@@ -26,4 +26,4 @@ RegExp有自己的prototype方法，例如：test(), exec()，但比較常搭配
 4. 獲取列表的DOM元素suggestion，將上面的html帶入suggestion.innerHTML。
 5. 獲取搜尋的DOM元素search，在上面設監聽器，監聽'change'和'keyup'，觸發搜尋匹配及顯示匹配的函式。
 
-* 對正則表達式真的很不熟阿...附上參考資料方便以後查看：[參考1](https://pjchender.dev/javascript/js-regex/) [MDN](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
+* 對正則表達式真的很不熟阿...附上參考資料方便以後查看：[參考1](https://pjchender.dev/javascript/js-regex/),  [MDN](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/RegExp)

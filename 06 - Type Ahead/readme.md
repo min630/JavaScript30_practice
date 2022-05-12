@@ -1,6 +1,6 @@
 ## Day 6 - Type Ahead
 
-<img src="" width="400" height="220" alt="image"/>
+<img src="https://github.com/min630/JavaScript30_practice/blob/main/06%20-%20Type%20Ahead/play.gif" width="600" height="300" alt="image"/>
 
 學習重點：1. 使用 fetch() 請求資源;  2. 正規表達式;
 

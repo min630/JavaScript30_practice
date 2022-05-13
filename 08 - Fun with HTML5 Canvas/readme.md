@@ -1,6 +1,6 @@
 ## Day 6 - Type Ahead
 
-<img src="" width="600" height="300" alt="image"/>
+<img src="https://github.com/min630/JavaScript30_practice/blob/main/08%20-%20Fun%20with%20HTML5%20Canvas/play.gif" width="600" height="300" alt="image"/>
 
 學習重點：1.透過Canvas API達成畫圖的效果; 2. 認識 hsl色調設定
 

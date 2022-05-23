@@ -1,6 +1,6 @@
 ## Day 9 - Dev Tools Domination
 
-<img src="" width="300" alt="image"/>
+<img src="https://github.com/min630/JavaScript30_practice/blob/main/09%20-%20Dev%20Tools%20Domination/screenshot.JPG" width="300" alt="image"/>
 
 學習重點：將程式結果印在瀏覽器開發工具(DevTools)的console上的各種方法。
 

@@ -1,5 +1,5 @@
 ## Day 11 - Custom Video Play
-<img src="" width="600px" height="300px" alt="screenshot" />
+<img src="https://github.com/min630/JavaScript30_practice/blob/main/11%20-%20Custom%20Video%20Player/play.gif" width="600px" height="300px" alt="screenshot" />
 
 學習重點：HTML video的屬性與方法。
 

@@ -1,6 +1,6 @@
 ## Day 12 - Key Sequence Detection
 
-<img src="" width="600px" height="300px" alt="screenshot" />
+<img src="https://github.com/min630/JavaScript30_practice/blob/main/12%20-%20Key%20Sequence%20Detection/screenshot.JPG" width="450px" height="300px" alt="screenshot" />
 
 學習重點：按鍵監聽、陣列裁切、字串比對。
 
